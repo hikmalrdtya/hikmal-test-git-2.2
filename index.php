@@ -14,5 +14,9 @@
 <body>
     <h1>Hello World!!!</h1>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt, quidem!</p>
+    <ul>
+        <li>saya</li>
+        <li>aku</li>
+    </ul>
 </body>
 </html>
